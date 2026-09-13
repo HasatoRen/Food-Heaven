@@ -1,0 +1,18 @@
+ul, ul li {
+    display: inline;
+}
+
+nav {
+    text-align: center;
+}
+
+ul li {
+    width: 200px;
+    border: 1px solid black;
+    padding: 4px 8px;
+}
+
+ul li:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}
